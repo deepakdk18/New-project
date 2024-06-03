@@ -14,5 +14,4 @@ Serverless Student Data Management System
 
 5. Implementing Secure Connections with CloudFront: To ensure secure access to our web application, we'll deploy CloudFront as a content delivery network (CDN). We'll configure CloudFront to serve our S3 content securely over HTTPS, providing encryption in transit and improving the performance of our application.
 
-I look forward to applying these skills to future projects and exploring more AWS capabilities.
 
